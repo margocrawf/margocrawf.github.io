@@ -9,8 +9,14 @@ body {
 }
 
 div.bg {
-  width: 100%;
-  z-index: 0;
+    width: 2000px; 
+    height: 500px; 
+    overflow: hidden; 
+}
+
+div.bg img {
+    width: 100%;
+    z-index: 0;
 }
 
 div.bg h1 {
