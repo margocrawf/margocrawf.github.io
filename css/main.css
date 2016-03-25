@@ -11,18 +11,19 @@ div.bg {
 
 div.bg h1 {
     position: absolute; 
-    top: 200px; 
-    left: 0; 
+    top: 500px; 
+    left: 10px; 
     width: 100%;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color:white;
 }
 nav {
     background-color:#999;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 10px;
+    padding: 0px;
     list-style: none;
     font-weight: bold;
 }
