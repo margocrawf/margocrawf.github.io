@@ -1,7 +1,13 @@
 /*this is sample code from http://jmcglone.com/guides/github-pages/. */
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 100%;
+}
+
+.bg
+{
+  width: 100%;
+  z-index: 0;
 }
 nav {
     background-color:black;
