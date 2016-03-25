@@ -11,10 +11,10 @@ div.bg {
 
 div.bg h1 {
     position: absolute; 
-    top: 500px; 
+    top: 400px; 
     left: 10px; 
     width: 100%;
-    font-size: 3em;
+    font-size: 6em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color:white;
 }
