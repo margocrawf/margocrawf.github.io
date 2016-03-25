@@ -33,10 +33,10 @@ p {
 
 div.projectlinks {
     display: inline-block;
-    width: 150px;
-    height: 75px;
+    width: 304px;
+    height: 228px;
     margin: 10px;
-    border: 3px solid #73AD21; 
+    border: 3px solid #999; 
 }
 footer {
     border-top: 1px solid #d5d5d5;
