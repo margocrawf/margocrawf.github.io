@@ -30,6 +30,10 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
+div.projectlinks {
+    display: inline-block;   
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -42,19 +46,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-ul.projectlinks {
-   height:425px;
-   width:200px;
-   list-style-type: none;
-}
-
-ul.projectlinks li {
-   border:1px solid #BBBBBB;
-   float:right;
-   height:50px;
-   margin-right:7px;
-   margin-top:7px;
-   width:50px;
 }
