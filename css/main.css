@@ -19,6 +19,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: #666;
 }
 h1 {
     font-size: 3em;
@@ -28,6 +29,10 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+}
+
+div.projectlinks {
+    display: inline-block;
 }
 footer {
     border-top: 1px solid #d5d5d5;
