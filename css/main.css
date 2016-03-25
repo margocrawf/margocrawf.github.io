@@ -1,4 +1,8 @@
-/*this is sample code from http://jmcglone.com/guides/github-pages/. */
+*{
+    padding: 0;
+    margin: 0;
+}
+
 body {
     margin: 0px auto;
     width: 100%;
