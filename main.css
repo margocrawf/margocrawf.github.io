@@ -43,6 +43,7 @@ ul.posts li {
     list-style: none;
 }
 
-div.projectlinks {
+div.projectlinks ul li {
     list-style: inline;
+    margin-right: 20px;
 }
