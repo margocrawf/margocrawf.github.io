@@ -19,7 +19,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
-    color: #666;
+    color: #;
 }
 h1 {
     font-size: 3em;
@@ -44,7 +44,17 @@ ul.posts li {
     list-style: none;
 }
 
-div.projectlinks ul li {
-    list-style: inline;
-    margin-right: 20px;
+ul.projectlinks {
+   height:425px;
+   width:200px;
+   list-style-type: none;
+}
+
+ul.projectlinks li {
+   border:1px solid #BBBBBB;
+   float:right;
+   height:50px;
+   margin-right:7px;
+   margin-top:7px;
+   width:50px;
 }
