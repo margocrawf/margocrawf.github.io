@@ -73,13 +73,14 @@ div.projectlinks {
     height: 228px;
     margin: 10px;
     border: 3px solid #999; 
+    position: relative;
 }
 
 div.projectlinks p {
-    position:relative;
-    bottom:225px;
+    position: absolute;
+    bottom: 30px;
     text-indent: 0px;
-    color:white;
+    color: white;
 }
 footer {
     border-top: 1px solid #d5d5d5;
