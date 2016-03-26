@@ -24,7 +24,7 @@ div.bg h1 {
     top: 325px; 
     width: 100%;
     font-size: 6em;
-    font-family: 'Candara', 'Calibri', 'Segoe', 'Segoe UI', Optima, Arial, sans-serif;
+    font-family: 'Candara', 'Calibri', 'Segoe', 'Segoe UI', 'Optima', Arial, sans-serif;
     color:white;
 }
 div.bg h1 span {
@@ -37,7 +37,7 @@ nav {
     background-color:#999;
 }
 nav ul, footer ul {
-    font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;;
+    font-family: 'Candara', 'Calibri', 'Segoe', 'Segoe UI', 'Optima', Arial, sans-serif;;
     padding: 10px;
     list-style: none;
     font-weight: bold;
