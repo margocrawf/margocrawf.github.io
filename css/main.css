@@ -21,7 +21,7 @@ div.bg img {
 
 div.bg h1 {
     position: absolute; 
-    top: 300px; 
+    top: 325px; 
     width: 100%;
     font-size: 6em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -64,6 +64,7 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    text-indent: 20px;
 }
 
 div.projectlinks {
@@ -72,6 +73,12 @@ div.projectlinks {
     height: 228px;
     margin: 10px;
     border: 3px solid #999; 
+}
+
+div.projectlinks p {
+    position:relative;
+    top:200px;
+    color:#999;
 }
 footer {
     border-top: 1px solid #d5d5d5;
