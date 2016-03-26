@@ -77,8 +77,9 @@ div.projectlinks {
 
 div.projectlinks p {
     position:relative;
-    bottom:200px;
-    color:#999;
+    bottom:250px;
+    text-indent: 0px;
+    color:white;
 }
 footer {
     border-top: 1px solid #d5d5d5;
